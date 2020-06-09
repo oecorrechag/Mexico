@@ -46,13 +46,13 @@ Las personas sordas tienen problemas comunicativos que generan aislamiento, prob
 
 Figura 1: Modelo.
 
-![alt text](https://github.com/oecorrechag/Proyecto-Sao-Paulo-Cafe/blob/master/modelo.png)
+![alt text](https://github.com/oecorrechag/Proyecto-Mexico/blob/master/modelo.PNG)
 
 * Se desarrollo un software capaz de detectar señales de manos y clasificarlas según el alfabeto americano, presentando buenas predicciones y cumpliendo con el objetivo deseado.
 
 Figura 2: Evaluacion del modelo con fotos propias.
 
-![alt text](https://github.com/oecorrechag/Proyecto-Sao-Paulo-Cafe/blob/master/manos.png)
+![alt text](https://github.com/oecorrechag/Proyecto-Mexico/blob/master/manos.PNG)
 
 * Se valido el modelo con imágenes de nuestras propias manos, si bien el modelo clasifica correctamente, puede generar algunos errores dada la orientación de la mano, fondo de la foto y la iluminación.  
 
@@ -60,7 +60,7 @@ Como proyecto futuro se podria utilizar video y utilizar la funcion VideoCapture
 
 Figura 3: Matriz de Confusión.
 
-![alt text](https://github.com/oecorrechag/Proyecto-Sao-Paulo-Cafe/blob/master/matriz.png)
+![alt text](https://github.com/oecorrechag/Proyecto-Mexico/blob/master/matriz.png)
 
 ### Bibliografia
 
